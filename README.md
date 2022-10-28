@@ -1,3 +1,10 @@
-# GraphDataStruct
+# GraphClass
 
-GraphDataStruct represents an undirected, weighted graph that was constructed using an adjacency list and includes multiple algorithms to traverse the graph
+GraphClass is a C++ application that represents an undirected, weighted graph. The graph was constructed as an adjacency list and includes multiple methods for traversing the graph.
+
+## What I learned
+
+-
+-
+-
+-

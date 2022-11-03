@@ -8,7 +8,7 @@ GraphClass is a C++ application that rigorously and thoroughly tests an undirect
 - Implementing a LinkedList class to represent the graph's edges 
 - Enhancing problem solving skills when constructing algorithms for each of the traversals
 - Separating interface from implementation
-- Exhaustively testing a self constructed data type by validating and iterating through all of the Graph class methods
+- Exhaustively testing a self constructed data type by validating and iterating through all of the GraphClass methods
 
 ## How It Works
 

@@ -1,6 +1,6 @@
 # GraphClass
 
-GraphClass is a C++ application that rigorously and thoroughly tests an undirected, weighted graph. The graph was constructed as an adjacency list and includes multiple methods for traversing the graph.
+GraphClass is a C++ application that rigorously and thoroughly tests an undirected, weighted graph. The graph is constructed as an adjacency list and includes multiple methods for traversing the graph.
 
 ## What I Learned
 
